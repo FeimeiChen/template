@@ -5,7 +5,7 @@ image: images/gobang.jpeg
 title: Gobang
 permalink: projects/gobang
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-01-21
 labels:
   - C
 summary: the gobang game
