@@ -13,10 +13,6 @@ summary: the gobang game
 
 <img class="ui medium right floated rounded image" src="../images/gobang-1.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Coding a gobang game was my first project. It was a simple and interesting project because I liked to play gobang with my friends since I was a child. Therefore, I really happy to code this project. In this project, I code a chessboard first, then player chose their location. If five chess pieces in a line, the game should be terminated and print the winner’s name. However, this game only works in the black window, so I cannot play it with my friend who is not an ICS student.  Therefore, So I realized that I should learn more knowledge about programming in order to make a perfect game, such as having a good user interface and using a picture to make a bigger chessboard.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
