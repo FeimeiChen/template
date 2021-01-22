@@ -14,5 +14,5 @@ I decided to become an ICS student because my uncle is a software engineer and h
 
 ## Learning 
  I learned C language in my freshman year, and it was not difficult for me to understand. 3 years ago, I moved to the US to continue my ICS course at KCC, but I realize that I have a huge language barrier, which reduce the efficiency of learning a new skill and even make it harder for me to understand what professors  saying. But I still want to get a degree in computer science. In addition, I learned from the ICS courses that these languages have similar syntax. Therefore, if I spend enough time on learn JavaScript, I believe that I will control it.
-## the Goal
+## The Goal
   In this semester, I want to manipulate JavaScript to make websites. Aslo, I hope that I manipulate other computer language, and improve my english. In general, I should write code everyday which will make me better at coding, and read code books in English instead of in Chinese, which can help me understand the problem in a shorter time, so that I can finish the code faster in WODs. In general, it is important for me to improve English and programming skills and experience for my future.
