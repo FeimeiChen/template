@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SHA1.jpg
+image: images/SHA1.png
 title: Micromouse
 permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
