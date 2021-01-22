@@ -16,25 +16,38 @@ summary: cryptographic computer security algorithm.
   <img class="ui image" src="../images/SHA-1.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This another project that I took ICS class in KCC is SHA-1.  My professor allowed us to Choose C language or C++ language to code. C language is the first programming language that I learn, so I chose it to code this assignment. I spent much more time to read and understand the file about SHA-1 than programming because I am not good at English. I have to read it carefully and even translate it into Chinese when I cannot understand it. However, after knowing what the file that my professor Lisa share, I was not afraid to code it and finish it before the deadline. The Secure Hash Algorithm 1 is a cryptographic computer security algorithm. It was created by the US National Security Agency in 1995, and it is part of the Digital Signature Algorithm or the Digital Signature Standard (DSS). The purpose of SHA -1 is that producing a 160 bits hash value or message digest from the inputted data. In addition, I fell curiosity about using bitwise operators that I rarely use it. In general, this project was not hard, but it took a lot of time to read and understand this project’s file. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code about bitwise operators:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+// convert your array of unsigned characters into an equivalent array of unsigned integers
+void convertCharArrayToIntArray(unsigned char buffer[], unsigned int message[], unsigned int sizeOfFileInBytes){
+        unsigned int mask = 0x80000000;
+        unsigned int i = 0, j =0;
+        while(sizeOfFileInBytes >= i){
+                mask = mask << 8 | buffer[i];
+                mask = mask << 8 | buffer[++i];
+                mask = mask << 8 | buffer[++i];
+                mask = mask << 8 | buffer[++i];
+                message[j] = mask; 
+                i++; 
+                j++;
+        }       
+        if(DEBUG){
+                for(i = 0; i < j; i++){
+                        printf("message[%d] = %08X\n", i, message[i]);
+                
+                        }
+                }
+                        
+                                                             
 }
+
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+If you want have whole code, please send an email to feimei@hawaii.edu.
 
 
 
