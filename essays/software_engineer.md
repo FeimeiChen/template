@@ -8,6 +8,7 @@ labels:
   - software engineer
 ---
 <img class="ui medium left floated image" src="../images/code.jpeg">
+
 ## Interest 
 I decided to become an ICS student because my uncle is a software engineer and he is the richest person in my family. He started a company with more than 20 programmers. Therefore, I think becoming an ICS student will have a better future. To prove this idea, I searched for the average salary of software engineers, which led me to believe that software engineers pay more than other jobs. As we know, computers have changed the world by changing the way we communicate, think and live. For example, student can use Youtube or Googel to learn skills and knowledge. Therefore, I am interested in becoming a software engineer due to the fulfilling salary and its important and deep impact on the world.
 
