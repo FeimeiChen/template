@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why and How to Manipulate JavaScript 
+title: Why and How to Learn JavaScript 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
