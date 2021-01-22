@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/SHA1.png
-title: Micromouse
+title: SHA-1
 permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
