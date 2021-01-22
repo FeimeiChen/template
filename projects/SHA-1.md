@@ -8,7 +8,7 @@ permalink: projects/SHA-1
 date: 2021-01-21
 labels:
   - Security
-  - C++
+  - C
 summary: cryptographic computer security algorithm.
 ---
 
