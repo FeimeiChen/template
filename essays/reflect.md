@@ -8,7 +8,7 @@ labels:
   - JavaScript 
   - Learning
 ---
-<img class="ui medium left floated image" src="../images/JavaScript.jpg">
+<img class="ui medium left floated image" src="../images/JavaScript1.jpg">
 
 ## What is JavaScript?
 JavaScript is one of the most useful scripting languages for making web pages. It is easier to manipulate it than C language and java. In other words, people can understand it quickly after control C language and java because they have some similar syntax. However, C language and Java are statically typed language, but JavaScript is a dynamically typed language. Thus, programmers must specify what type each variable is before running the program when they use C language and Java, but they do not have to specify the type of variables in declaring variables in JavaScript. For example, if programmers using JavaScript, they just use var, const, or let to declare any type of variables, but there are some keywords such as int that is an integer type, and float that is a shortened term for floating points to distinguish between floating-point and integers in C language. In addition, ES6 makes JavaScript more convenient, and lets code become cleaner, short, and easier to understand for programmers.
