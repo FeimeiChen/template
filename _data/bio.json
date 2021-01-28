@@ -79,6 +79,11 @@
       ]
     }
   ],
-  "References": [ "Available upon request" ]
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
   
 }
