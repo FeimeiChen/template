@@ -7,6 +7,7 @@ date: 2021-01-28
 labels: 
   - Learning
 ---
+<img class="ui medium left floated image" src="../images/equestion.jpeg">
 
 ## When and Why Student Should Ask Good Questions    
 As students learn a new skill and knowledge, they will have more and more problems and even feel confused. When we are faced with an unsolved problem, we will try to solve it by ourselves, but even though we spend a lot of time, we still can't solve it.  For example, we read technical books, use Google to search for information, even watch YouTube to learn anything about it, but we still can't solve it. At this time, asking others is a good and effective way to help us solve the problem. We know that with the development of the Internet, students can use Google and other websites to search for questions. In addition, asking the question the smart way by e-mail, or in a newsgroup, or on a website chat board can help students to get help in a shorter time.
