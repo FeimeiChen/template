@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: 
+title: asking questions in a smart way
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
-labels: asking questions in a smart way
+labels: 
   - Learning
 ---
 
