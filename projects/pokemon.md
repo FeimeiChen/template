@@ -18,4 +18,4 @@ This ICS 211 final project, which is to build a Graphical User Interface (GUI) f
 
 As we know, as a programmer code for users,  and most users can not understand machine language and even C language. Therefore, GUI is a graphical interface that can help that users to use the software that programmers made.  It is the common user Interface that includes Graphical representation like buttons and icons and communication can be performed by interacting with these icons rather than the usual text-based or command-based communication. In addition, this project helps me to review what ICS 211 teaching, and what need I to improve. In general, this project is interesting and helpful for my communication skill and java.
  
-If you need code, please email to feimei@hawaii.edu
+If you need code, please email to [feimei@hawaii.edu](feimei@hawaii.edu).
