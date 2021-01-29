@@ -46,6 +46,6 @@ void convertCharArrayToIntArray(unsigned char buffer[], unsigned int message[], 
 }
 
 ```
-If you would like the complete code, please email to [feimei@hawaii.edu]{feimei@hawaii.edu}.
+If you would like the complete code, please email to [feimei@hawaii.edu](feimei@hawaii.edu).
 
 
