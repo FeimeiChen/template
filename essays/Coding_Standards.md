@@ -9,7 +9,7 @@ labels:
   - ESLint
   - IntelliJ
 ---
-<img class="ui medium left floated image" src="../images/equestion.jpeg">
+<img class="ui medium left floated image" src="../images/ESLint.jpeg">
 
 ## Enhance Efficiency
 Coding standards are very important for programmers and readers because they can understand easily and faster. For example, when I reviewed my code that doesn’t follow the rules such as proper naming and using useful comments, I felt that I have to rewrite it again to understand how I coded because my code is so messy, which is really waster time due to poor coding. Thus, a clear code can enhance efficiency and reduce the mistake that you code.
