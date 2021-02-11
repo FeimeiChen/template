@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Importantce of Coding Standards
+title: The Importance of Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-10
 labels: 
