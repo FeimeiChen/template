@@ -8,7 +8,7 @@ labels:
   - Learning
   - UI Frameworks
 ---
-<img class="ui medium left floated image" src="../images/UI.jpeg">
+<img class="ui image" src="../images/website.jpeg">
 
 UI Frameworks can help us to build new websites easily and conveniently. Such as Semantic UI. Using those frameworks, we don’t need to create an element start from scratch, which saves time and makes building a website become easier for a new programmer. In other words, without using UI Frameworks, programmers have to create a satisfied by code with Javascript, HTML, and CSS to write more code in the CSS file and HTML file to make your website match your goal, which is very harder for a new programmer. Thus, Using UI Frameworks reduce the workload. Therefore, UI Frameworks benefit programmers, especially new programmers to build a professional website and make building websites not very complicated for people. 
 
