@@ -8,7 +8,7 @@ labels:
   - Learning
   - Design Pattern
 ---
-<img class="ui medium left floated image" src="../images/JavaScript1.jpg">
+<img class="ui medium left floated image" src="../images/WechatIMG505.jpeg">
 
 
 ## Why Design Patterns Are Important
