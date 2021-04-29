@@ -11,8 +11,8 @@ labels:
 <img class="ui medium left floated image" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348027904l/85009.jpg">
 
 
-## What is JavaScript?
-  As we know, computers change our lifestyle, however, computers and software are created by smart people. Those smart software engineers share their experience with others, learn more knowledge about computers and coding, which avoid new software engineers from wasting their time to find the solution that those smart people already know. There is a team that we called Gang of four, they conclude server design patterns for us, which make us code more reusable and more efficient. Thus,  those design patterns are very important because they are general, reusable solutions.
+## Why Design Patterns Are Important
+  As we know, computers change our lifestyle, however, computers and software are created by smart people. Those smart software engineers share their experience with others, learn more knowledge about computers and coding, which avoid new software engineers from wasting their time to find the solution that those smart people already know. There is a team that we called Gang of four, they conclude server design patterns for us, which make us code more reusable and more efficient. Thus,  those design patterns are very important because they are general, reusable solutions.
   
 ## Personal Experience 
     After attending the final project of ICS 314, I realized how important the design pattern is. In this project, we use Meteor and implement some design patterns to build our website, making us build our website in a short time. In other words, I can not imagine how difficult it would be if we do not use the Meteor and implement others design patterns because I seem to even do not know how to begin to code our website.  In addition, we use the prototype design pattern which comes from javascript, Publish-Subscribe design pattern, and Model-View-Controller design pattern, those two are from Meteor. Also, the singleton pattern is used by us to create the website. 
