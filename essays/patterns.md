@@ -8,7 +8,7 @@ labels:
   - Learning
   - Design Pattern
 ---
-<img class="ui medium left floated image" src="../images/equestion.jpeg">
+<img class="ui medium left floated image" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348027904l/85009.jpg">
 
  ## why design pattern is important
 As we know, computers change our lifestyle, however, computers and software are created by smart people. Those smart software engineers share their experience with others, learn more knowledge about computers and coding, which avoid new software engineers from wasting their time to find the solution that those smart people already know. There is a team that we called Gang of four, they conclude server design patterns for us, which make us code more reusable and more efficient. Thus,  those design patterns are very important because they are general, reusable solutions.
