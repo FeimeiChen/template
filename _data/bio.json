@@ -79,13 +79,17 @@
       ]
     }
   ],
-   "job": [
+   "work": [
     {
-      "Company": "Goma Tei",
-      "Title": "Server",
-      "purpose": "earn money to pay my tuition fees",
-      "startDate": "2018",
+      "company": "Goma Tei",
+      "position": "Server",
+      "website": "",
+      "startDate": "2018-02-01",
       "endDate": "Present",
+      "summary": "This is Japanese style restaurant ",
+      "highlights": [
+        "make money for my tuition by this part-time job :)"
+      ]
     }
   ],
   "references": [
