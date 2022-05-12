@@ -7,7 +7,7 @@ date: 2022-05-12
 labels: 
   - Learning
   - Aloha Time 
-  - Javascript
+  - JavaScript
 ---
 ## What I Face Before Coding 
 I took the 314 software project and I didn't think it was too difficult and learned a lot from it, however, after a year I had forgotten almost everything related to JavaScript, Meteor, and Semantic UI, which led me to review my 314 final project code. After reviewing all my 314 project code, I felt that I could do well in the ICS 414 project, but this software engineering had more challenges due to working with real-world customers. My English was not good, so after the first meeting with the client, I was confused about what they wanted and how to design our website. Luckily, my teammate spoke good English and explained the objectives to me by drawing diagrams, which helped me a lot to start working and gave up the idea that I had to drop the class.
@@ -18,4 +18,6 @@ I took the 314 software project and I didn't think it was too difficult and lear
 ## The End
 Our team is called Aloha Time and makes a website for volunteers and organizations. On our website, organizations can be vetted by administrators and offer opportunities for volunteers. Everyone can register as a volunteer on our website, but not everyone can register as an organization, which ensures the authority of the organization. Volunteers can perform a quick search by multiple selection fields or by entering the name of the opportunity to filter the results.
 After you find satisfied opportunities, you can click the card to show detailed information such as a map to find location and send email to contact the organization. In general, the website has more functions than the ICS 314 final project. In addition, changing username and changing password, and uploaded images function  are my favorite parts because I feel a little challenge and fun about those parts because I did learn anything related to those in ICS 314, so I have to ask my teammate and search in google. In every Milestone, I achieved my goals of at least 2 issues to improve my website skills, but I still think I need improvement to make a nice UI and make a better website. In general, I really enjoy this class and get a lot from this class such as getting a free Starbuck Gift Card from nice Clients !!! 
+
+
 
