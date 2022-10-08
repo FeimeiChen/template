@@ -6,7 +6,7 @@
     "email": "feimei@hawaii.edu",
     "phone": "808-304-5787",
     "website": "https://FeimeiChen.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "1617 Frog Lane Apt2",
       "postalCode": "96817",
@@ -29,18 +29,23 @@
   },
   "interests": [
     {
-      "name": "Software engineering",
-      "keywords":"I will become a software engineer"
+      "name": "Software Engineering",
+      "keywords":[]
         
     },
     {
-      "name": "artificial intelligence",
-      "keywords":"artifical intelligece will make our lives become more interesting!"
+      "name": "Artificial Intelligence",
+      "keywords":[]
       
     },
     {
-     "name": "game design",
-      "keywords":"more and more people play video games!"
+     "name": "Game Design",
+      "keywords":[]
+   
+    }
+    {
+     "name": "Full Stack Development",
+      "keywords":[]
    
     }
     
@@ -53,7 +58,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "CSS",
+        "HTML",
+        "MySQL",
       ]
     },
     {
@@ -62,8 +70,12 @@
       "keywords": [
         "Linkedln",
         "Discord",
-        "Git/GitHub"
-       
+        "Git/GitHub",
+        "React",
+        "MeteorJS",
+        "Node.js",
+        "MongoDB",
+        "Semantic UI"    
       ]
     }
   ],
@@ -74,8 +86,18 @@
       "studyType": "B.S.",
       "startDate": "2018",
       "endDate": "Present",
-      "gpa": "3.82",
+      "gpa": "3.97",
       "courses": [
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 312: Machine-Lvl & Systems Programg"
+        "ICS 321: Database Systems I",
+        "ICS 332: Operating Systems",
+        "ICS 414: Software Engineering II"
+        "ICS 427: Software Quality Assurance",
+        "ICS 451: Data Networks",
+        "ICS 432: Concurrent Programming",
+        "ICS 483: Computer Vision"   
       ]
     }
   ],
@@ -84,11 +106,20 @@
       "company": "Goma Tei",
       "position": "Server",
       "website": "",
-      "startDate": "2018-02-01",
-      "endDate": "Present",
-      "summary": "This is a Japanese restaurant",
+      "startDate": "December 2017",
+      "endDate": "October 2021",
+      "summary": " Seating customers, taking and fulfilling food orders, answering customer inquiries, processing credit and cash payments", 
       "highlights": [
-        "making money for my tuition by this part-time job :)"
+      ]
+    },
+      {
+      "company": "Uber",
+      "position": "Driver",
+      "website": "",
+      "startDate": "May 2021",
+      "endDate": "present",
+      "summary": "Delivering food of various restaurants to the customers, explaining to them the details of food, and answering their questions & inquiries.",
+      "highlights": [      
       ]
     }
   ],
