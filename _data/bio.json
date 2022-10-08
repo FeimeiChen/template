@@ -47,6 +47,11 @@
      "name": "Full Stack Development",
       "keywords":[]
       
+    },
+    {
+     "name": "Cybersecurity",
+      "keywords":[]
+      
     }
     
   ],
@@ -90,7 +95,7 @@
       "courses": [
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
-        "ICS 312: Machine-Lvl & Systems Programg"
+        "ICS 312: Machine-Lvl & Systems Programg",
         "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
         "ICS 414: Software Engineering II"
